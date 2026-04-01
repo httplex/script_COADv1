@@ -1,5 +1,5 @@
 # script_COADv1
-Script inicial que auxilia na busca de dados específicos dentro dos documentos em formato .html mirando na base de dados inicial da COAD/ICMBio.
+Script inicial que auxilia na busca de dados específicos dentro dos documentos em formato .html mirando na base de dados inicial da COAD/ICMBio. A ferramenta tem o foco em fazer com que o trabalho primário de cadastro de informações seja feito totalmente pelo script mais rápido e em menos tempo.
 
 Fluxo Principal:
  - O programa começa processando um a um os documentos da pasta direcionada, no momento apenas em formato .html;
